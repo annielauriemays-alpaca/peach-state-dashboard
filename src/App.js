@@ -57,7 +57,7 @@ const badgeStyle = {
   'Not started': { background: '#fcebeb', color: '#791f1f' },
 };
 
-const navLinks = ['Revenue Health', 'RCM Operating System', 'Provider Roster', 'Payer Rules KB', 'Prompt Library'];
+const navLinks = ['Revenue Health'];
 const tabs = ['Overview', 'By payer', 'Denial breakdown', 'Trends', '90-day plan'];
 
 const s = {
